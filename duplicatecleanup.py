@@ -13,5 +13,5 @@ def main(unique_id):
     print("Hello, This is the set of unique customer id...without duplicates")
     print_unique(unique_id)
 
-#main(customer_ids)
-main(new_ids)
+main(customer_ids)
+#main(new_ids)
